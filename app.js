@@ -1,0 +1,1 @@
+console.log('TBZ AI front-end loaded');
